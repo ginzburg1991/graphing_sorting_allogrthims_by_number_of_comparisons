@@ -1,7 +1,7 @@
 # Graphing Sorting Allogrthims By Speed
 [![My Skills](https://skillicons.dev/icons?i=python,excel,matplotlib)](https://skillicons.dev)
 
-##Introduction
+## Introduction
 
 This repository is dedicated to examining the efficiency of classic sorting algorithms across different dataset orderings. It extends our analysis to include nearly sorted, random, and sorted datasets and those sorted in reverse. By systematically comparing algorithm performance on these datasets, we aim to deepen the understanding of the computational complexity involved in sorting tasks.
 
