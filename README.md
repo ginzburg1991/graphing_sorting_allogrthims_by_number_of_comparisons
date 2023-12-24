@@ -1,4 +1,4 @@
-# Graphing Sorting Allogrthims By Speed
+# Graphing Sorting Allogrthims By Number of Comparisons
 [![My Skills](https://skillicons.dev/icons?i=python,excel,matplotlib)](https://skillicons.dev)
 
 ## Introduction
