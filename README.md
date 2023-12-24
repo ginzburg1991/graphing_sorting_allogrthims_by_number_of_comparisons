@@ -1,5 +1,5 @@
 # Graphing Sorting Allogrthims By Number of Comparisons
-[![My Skills](https://skillicons.dev/icons?i=python,excel,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
 
 ## Introduction
 
